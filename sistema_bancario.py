@@ -115,7 +115,6 @@ while True:
                             """))
                 if opcao == "1":
                     break
-
     elif opcao == "3":
         print("\n****************** EXTRATOS ******************")
         print("Nenhuma operação realizada" if not extrato else extrato)
